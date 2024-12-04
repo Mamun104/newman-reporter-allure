@@ -1,0 +1,1 @@
+{"status_code":200,"message":"Success","data":{"email":"migrationToney@byslglobal.com","url":"eyJpdiI6Ii9jbUVhVHhhSGhsZUQzMFVHaGh6V0E9PSIsInZhbHVlIjoiNzdGeDIzTjQ3cFBSUktxYnlLanNERzdHaTA3cGc1T25wczdqUjdkbXpLNDBZZERQcjZHcTJHZFNCUjQrWUF1byIsIm1hYyI6IjlmNGI1OTAzYTBmMTM2YjdkYzQ4NGZiMjdhZTNmMTNiNzY0MjM1ZmI1ZmNlMDdjMzVhNGYxMGIxNjFhYmNmOTgiLCJ0YWciOiIifQ=="}}

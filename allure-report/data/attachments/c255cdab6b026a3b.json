@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 72929|FI4Xd8sYs5wwtE1OagfpuwWpq4cfPJ28QBTEOdGZ7960dba3",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "10282278-6bb8-4ed8-be7a-fe856dc01d8f",
+    "Host": "stagingapi.smartoffice.ai",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "64"
+}

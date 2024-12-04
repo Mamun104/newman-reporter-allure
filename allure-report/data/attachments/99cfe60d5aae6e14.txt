@@ -1,0 +1,1 @@
+{"status_code":500,"message":"The POST method is not supported for route api\/v1\/blood-groups. Supported methods: GET, HEAD.","errors":[]}

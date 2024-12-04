@@ -1,0 +1,11 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache, private",
+    "Date": "Wed, 04 Dec 2024 07:49:26 GMT",
+    "X-RateLimit-Limit": "25000",
+    "X-RateLimit-Remaining": "24961",
+    "Access-Control-Allow-Origin": "*"
+}

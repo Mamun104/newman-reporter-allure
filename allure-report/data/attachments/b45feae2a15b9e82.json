@@ -1,0 +1,9 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache, private",
+    "Date": "Wed, 04 Dec 2024 07:49:31 GMT",
+    "Access-Control-Allow-Origin": "*"
+}

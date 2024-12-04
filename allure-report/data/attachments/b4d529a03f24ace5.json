@@ -1,0 +1,10 @@
+{
+    "Authorization": "Bearer 72929|FI4Xd8sYs5wwtE1OagfpuwWpq4cfPJ28QBTEOdGZ7960dba3",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "eb04bd79-e225-4113-a549-88e1fe87e556",
+    "Host": "stagingapi.smartoffice.ai",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

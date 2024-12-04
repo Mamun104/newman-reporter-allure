@@ -1,0 +1,1 @@
+{"status_code":200,"message":"Success","data":{"email":"xyhLamar@jj","url":"eyJpdiI6IjJJV0cxblAzYlZMbWJ5T0RDNXBwdVE9PSIsInZhbHVlIjoiUU80OEJvUHY5VXAxMUowY0l0dGxFUG96WThPbTdYTXZLU0pHL3lHY1ZEND0iLCJtYWMiOiJlOWFhMDQzYTQzY2JlYmEyMjg2YWE5ZjlkNTU4MzcxYWExZjE4YzBkYjEwMjM1ODE1NzJjZGI0ZjU4MmNjNzk4IiwidGFnIjoiIn0="}}

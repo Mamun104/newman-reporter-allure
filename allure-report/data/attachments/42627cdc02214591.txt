@@ -1,0 +1,1 @@
+{"status_code":200,"message":"Success","data":{"email":"migrationMossie@byslglobal.com","url":"eyJpdiI6ImRZSDVTUnRpL2VZekxldmhZQUxhZ3c9PSIsInZhbHVlIjoiaVA1RGFZLzRuZ0JiNGpuRDJLM0pIcys1UWw4Y3MxbVl0ODVPSTI2RFc4OW80VEhiSDUzd0lndlZuTGwvalV0diIsIm1hYyI6IjdkYzQ3Nzg2MjQ1MGE2MTQ0YTBkOTJjNzg0YmE3Y2QwYmIyNTlhMmRmNDMwOGYwYzRlZTVhODhkOTg4OThmZGYiLCJ0YWciOiIifQ=="}}

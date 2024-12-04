@@ -1,0 +1,1 @@
+{"status_code":422,"message":"The password confirmation does not match.","errors":{"password":["The password confirmation does not match."]}}

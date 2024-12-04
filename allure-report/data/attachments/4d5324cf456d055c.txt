@@ -1,0 +1,5 @@
+{
+    "email": "migrationZetta@byslglobal.com",
+    "password": "test@user12",
+    "password_confirmation": "test@user123"
+}

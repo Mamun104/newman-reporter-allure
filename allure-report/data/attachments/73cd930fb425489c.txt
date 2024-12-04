@@ -1,0 +1,5 @@
+{
+    "email": "migrationGolda@byslglobal.com",
+    "password": "test",
+    "password_confirmation": "test"
+}

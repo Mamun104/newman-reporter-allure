@@ -1,0 +1,8 @@
+{
+    "username": "migration@byslglobal.com",
+    "password": "",
+    "device_id": "Device Id",
+    "device_name": "Device name",
+    "latitude": 24,
+    "longitude": 94
+}

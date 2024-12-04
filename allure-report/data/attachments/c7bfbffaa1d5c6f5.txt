@@ -1,0 +1,1 @@
+{"status_code":422,"message":"The email has already been registered. To login verify your email first.","errors":{"email":["The email has already been registered. To login verify your email first."]}}

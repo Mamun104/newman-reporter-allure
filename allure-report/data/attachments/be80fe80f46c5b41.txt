@@ -1,0 +1,1 @@
+{"status_code":422,"message":"The device name field is required.","errors":{"device_name":["The device name field is required."]}}
